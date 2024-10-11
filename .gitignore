@@ -3,6 +3,7 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
+jarvis/
 jarvis/lib
 
 # Ignore system-specific files
